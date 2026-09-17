@@ -1,44 +1,46 @@
 # Osaühing X
 
-**IT that supports decisions and creates lasting value.**
+**Solutions that create value.**
 
-Osaühing X develops and maintains digital solutions, web applications, infrastructure, and technology platforms.
+Osaühing X (OUX) is an Estonian IT company focused on turning real needs and ideas into practical digital solutions.
 
-Our focus is on building practical, scalable, and maintainable solutions — from user interfaces and backend systems to automation, integrations, and infrastructure.
+We work with both smaller technical challenges and larger development projects, building solutions around the actual requirements of each project. Our work includes web development, software development, integrations, and the systems needed to support them.
 
-## What we build
+We aim to keep our approach practical and transparent: understand the problem, evaluate what is realistically possible, and build a solution that fits the need.
 
-* **Web Applications** — modern, responsive, and performance-focused web solutions
-* **Full-Stack Systems** — frontend, backend, APIs, and databases
-* **SaaS & Multi-Tenant Platforms** — scalable services supporting multiple customers and domains
-* **Integrations & Automation** — APIs, webhooks, and automated workflows
-* **Infrastructure** — hosting, DNS, networking, and self-hosted systems
-* **Smart Systems** — Home Assistant, IoT, and custom integrations
 
-## Technology
+  
+<details id="2">
+  <summary>Technology</summary>
+  <br>
+  Technologies used across our projects include:
+  <br>
+  <code>Svelte</code> · <code>SvelteKit</code> · <code>JavaScript</code> · <code>Node.js</code> · <code>Supabase</code> · <code>REST APIs</code> · <code>Cloudflare</code> · <code>Netlify</code> · <code>Home Assistant</code> · <code>Resend</code> · <code>Discord</code> · <code>Scss</code>
+  <br>
+  The exact technology depends on the requirements of the project rather than a fixed stack.
+</details>
 
-Our projects are built using technologies such as:
+## [OUX](https://oux.ee/@/)
 
-`Svelte` · `SvelteKit` · `JavaScript` · `Node.js` · `Supabase` · `PostgreSQL` · `REST API` · `Stripe` · `Cloudflare` · `Netlify` · `Docker` · `GitHub` · `Home Assistant`
+OUX is where our development work begins.
 
-## Projects
+We create new solutions, improve existing systems, connect services, and build missing functionality when an off-the-shelf solution is not enough.
 
-### Extaas
+Our work includes:
 
-Extaas is a digital services and technology platform developed by Osaühing X.
+* Web development and web applications
+* Custom software solutions
+* APIs and service integrations
+* Existing system improvements
+* Automation and supporting tools
+* Technical solutions built around specific requirements
 
-**extaas.com**
+We take on projects where we are confident that we can deliver the required result properly.
 
-### OUX
+## [Extaas](https://extaas.com/@/)
 
-The corporate web platform and digital services of Osaühing X.
+**Extaas** is the home for products, tools, and public projects developed by OUX.
 
-**oux.ee**
+Solutions that start from a real problem or opportunity can evolve into reusable products and services that are made available through the Extaas ecosystem.
 
-## Engineering Principles
 
-Our development process focuses on:
-
-**Performance · Security · Maintainability · Scalability · Automation · Accessibility**
-
-We prefer straightforward and transparent architectures, open standards, and technologies that provide long-term control over the systems we build and operate.
